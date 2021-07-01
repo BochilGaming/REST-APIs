@@ -14,7 +14,7 @@
     {
         "soal": "Seseorang yang memimpin sebuah desa, biasanya dipanggil pak?",
         "jawaban": "Noleh"
-    },   
+    },
     {
         "soal": "Senikmat-nikmatnya makan diluar lebih nikmat makan di?",
         "jawaban": "Telan"
@@ -352,6 +352,111 @@
         "soal": "Kakak mengantar adik sekolah sampai",
         "jawaban": "Capek",
         "deskripsi": "Nganter nya di gendong"
+    },
+    {
+        "soal": "Galang menyimpan buku di…",
+        "jawaban": "Mas",
+        "deskripsi": "Bukunya dimas dipinjam galang kemarin sore"
+    },
+    {
+        "soal": "Matahari tenggelam di sebelah…",
+        "jawaban": "Gawat",
+        "deskripsi": "Gawat kalau matahari tenggelam di sebelah kita"
+    },
+    {
+        "soal": "Apabila mengendarai mobil wajib bawa",
+        "jawaban": "Satu",
+        "deskripsi": "Kalo bawa 2 gimana mengendarainya"
+    },
+    {
+        "soal": "Mawar melati semuanya…",
+        "jawaban": "Bunga",
+        "deskripsi": "Kalo bukan bunga apa coba, hewan?"
+    },
+    {
+        "soal": "Jangan membuang tisu di…",
+        "jawaban": "Tempatnya",
+        "deskripsi": "Masih di tempatnya kok di buang"
+    },
+    {
+        "soal": "Ketika _____ orang biasanya makan",
+        "jawaban": "Marah",
+        "deskripsi": "Orang marah apa enggak ya pasti makan"
+    },
+    {
+        "soal": "Burung adalah hewan yang bisa..",
+        "jawaban": "Temenan",
+        "deskripsi": "Kan kalo terbang rame-rame kan sama temennya.."
+    },
+    {
+        "soal": "Hewan yang suka buka mulut lebar",
+        "jawaban": "Kenaflu",
+        "deskripsi": "Itu karena ga bisa napas idungnya mampet.."
+    },
+    {
+        "soal": "Hewan yang berubah warna kalau ada musuhnya?",
+        "jawaban": "Bengong",
+        "deskripsi": "Karena, musuhnya bengong lihat hewan berubah warna"
+    },
+    {
+        "soal": "Artis wanita yang punya kumis tipis",
+        "jawaban": "Ihkumisan",
+        "deskripsi": "Ih kok kumisan sih.."
+    },
+    {
+        "soal": "Pintu biasa di….",
+        "jawaban": "Tekan",
+        "deskripsi": "Kalau anda biasa ke atm kan pin ditekan"
+    },
+    {
+        "soal": "Lebak bulus",
+        "jawaban": "Terkenal",
+        "deskripsi": " Karena lebak bulus,cililitan semua orang tau maka nya terkenal"
+    },
+    {
+        "soal": "Seorang matador bisa terluka karena diseruduk..",
+        "jawaban": "Biskota",
+        "deskripsi": "Mau banteng, mau bis kota, tetep aja bisa terluka.."
+    },
+    {
+        "soal": "Cermin jika di lap jadi…",
+        "jawaban": "Cermin",
+        "deskripsi": "Ya masa berubah, yaal tetap cermin"
+    },
+    {
+        "soal": "Batik merupakan produk asli dari…",
+        "jawaban": "Manusia",
+        "deskripsi": "Sejauh ini belum ada mahluk lain yang bisa"
+    },
+    {
+        "soal": "Kendaraan yang suka dipake tukang ojek?",
+        "jawaban": "Mogok",
+        "deskripsi": "Motor emang suka mogok"
+    },
+    {
+        "soal": "Binatang apa yang ga bisa bergerak?",
+        "jawaban": "Paus",
+        "deskripsi": "Kalau game di paus(e) kan berhenti main nya"
+    },
+    {
+        "soal": "Sehabis olahraga",
+        "jawaban": "Air minum",
+        "deskripsi": "Abis olahraga pasti haus kan"
+    },
+    {
+        "soal": "Di tiup angin berkibar di setiap negara",
+        "jawaban": "Jemuran",
+        "deskripsi": "Disetiap negara orang menjemur pakaiannya"
+    },
+    {
+        "soal": "Kalo haus minum",
+        "jawaban": "Aja",
+        "deskripsi": "Minum aja ntar juga ga aus"
+    },
+    {
+        "soal": "Hayam wuruk memerintah kerajaan?",
+        "jawaban": "Jamandulu",
+        "deskripsi": "Ya iyalah… masa jaman sekarang"
     },
     {
         "soal": "Jawab dengan benar. dunia ini terdiri dari lima …",
