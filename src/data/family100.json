@@ -1,0 +1,962 @@
+[
+    {
+        "soal": "apa yang dilakukan jika kebelet pipis saat berenang?",
+        "jawaban": [
+            "pipis",
+            "ke toilet", 
+            "ditahan", 
+            "naik ke pinggir kolam"
+        ]
+    },
+    {
+        "soal": "bagaimana cara agar tidak masuk angin?",
+        "jawaban": [
+            "pakai jaket",
+            "makan teratur", 
+            "minum obat",
+            "tidak begadang",
+            "minum"
+        ]
+    },
+    {
+        "soal": "sebutkan bagian tubuh yang bergerak saat tertawa?",
+        "jawaban": [
+            "mulut", 
+            "pipi", 
+            "perut", 
+            "bahu", 
+            "dada", 
+            "dagu"
+        ]
+    },
+    {
+        "soal": "kegiatan apa yang dilakukan saat cuaca dingin?",
+        "jawaban": [
+            "tidur", 
+            "minum kopi", 
+            "makan", 
+            "minum teh", 
+            "pelukan"
+        ]
+    },
+    {
+        "soal": "sebutkan nama danau?",
+        "jawaban": [
+            "toba", 
+            "gajah mungkur", 
+            "jatiluhur", 
+            "towuti"
+        ]
+    },
+    {
+        "soal": "apa yang pria lakukan saat menemani kekasihnya di salon?",
+        "jawaban": [
+            "main ponsel", 
+            "membaca", 
+            "merokok", 
+            "mendengarkan musik"
+        ]
+    },
+    {
+        "soal": "sebutkan sesuatu yang berhubungan dengan printer?",
+        "jawaban": [
+            "kertas", 
+            "tinta", 
+            "printer", 
+            "catridge"
+        ]
+    },
+    {
+        "soal": "minuman apa yang membutuhkan air panas?",
+        "jawaban": [
+            "kopi", 
+            "susu", 
+            "teh", 
+            "bandrek"
+        ]
+    },
+    {
+        "soal": "macam-macam permainan kartu ?",
+        "jawaban": [
+            "soliter", 
+            "poker", 
+            "empat satu", 
+            "heart", 
+            "remi",
+            "blackjack",
+            "uno"
+        ]
+    },
+    {
+        "soal": "gejala yang ditimbulkan demam berdarah?",
+        "jawaban": [
+            "demam", 
+            "pusing", 
+            "bintik merah", 
+            "badan lemas", 
+            "panas tinggi"
+        ]
+    },
+    {
+        "soal": "hewan langka di indonesia?",
+        "jawaban": [
+            "badak bercula dua", 
+            "cendrawasih", 
+            "komodo", 
+            "burung kasuari"
+        ]
+    },
+    {
+        "soal": "sebutkan pelawak terkenal?",
+        "jawaban": [
+            "malih", 
+            "parto", 
+            "jojon", 
+            "narji", 
+            "sule",
+            "tukul",
+            "bolot"
+        ]
+    },
+    {
+        "soal": "sebutkan cara untuk mendapatkan barang impian?",
+        "jawaban": [
+            "menabung", 
+            "bekerja", 
+            "hutang", 
+            "jual barang"
+        ]
+    },
+    {
+        "soal": "film mengenai ikan hiu?",
+        "jawaban": [
+            "jaws", 
+            "sharks", 
+            "deep blue sea", 
+            "open water", 
+            "shark tale"
+        ]
+    },
+    {
+        "soal": "macam-macam jenis sayuran ?",
+        "jawaban": [
+            "kacang panjang", 
+            "kangkung", 
+            "taoge", 
+            "bayam", 
+            "selada",
+            "sawi",
+            "kubis",
+            "buncis"
+        ]
+    },
+    {
+        "soal": "jenis binatang berbisa?",
+        "jawaban": [
+            "ular", 
+            "kelabang", 
+            "laba-laba", 
+            "tawon", 
+            "lebah",
+            "kala jengking"
+        ]
+    },
+    {
+        "soal": "dimana orang biasa bersandar?",
+        "jawaban": [
+            "tiang listrik", 
+            "mobil", 
+            "kursi", 
+            "pintu", 
+            "tembok",
+            "punggung orang"
+        ]
+    },
+    {
+        "soal": "sebutkan nama petenis terkenal dunia?",
+        "jawaban": [
+            "ivan lendle", 
+            "roger federer", 
+            "pete sampras", 
+            "boris becker", 
+            "jhon mc enroe",
+            "andre agassi",
+            "djokovic"
+        ]
+    },
+    {
+        "soal": "sebutkan bentuk-bentuk jimat?",
+        "jawaban": [
+            "kalung", 
+            "cincin", 
+            "gelang", 
+            "batu", 
+            "tindik",
+            "tasbih",
+            "sabuk"
+        ]
+    },
+    {
+        "soal": "dimana biasanya disebut tempat mistik?",
+        "jawaban": [
+            "kuburan", 
+            "goa", 
+            "gunung", 
+            "hutan", 
+            "rumah tua",
+            "laut"
+        ]
+    },
+    {
+        "soal": "pemain ovj di trans 7?",
+        "jawaban": [
+            "sule", 
+            "andre", 
+            "parto", 
+            "nunung", 
+            "azis"
+        ]
+    },
+    {
+        "soal": "yang di jual di lampu merah oleh pedagang?",
+        "jawaban": [
+            "koran", 
+            "kacang", 
+            "tisu", 
+            "rokok", 
+            "minuman dingin"
+        ]
+    },
+    {
+        "soal": "kegiatan ekstra kurikuler di sekolah?",
+        "jawaban": [
+            "pramuka", 
+            "basket", 
+            "beladiri", 
+            "renang", 
+            "pmr",
+            "pencak silat",
+            "taekwondo",
+            "voli"
+        ]
+    },
+    {
+        "soal": "rasa teh yang ada pada zaman sekarang?",
+        "jawaban": [
+            "strawberry", 
+            "jeruk", 
+            "melon", 
+            "mangga", 
+            "lemon"
+        ]
+    },
+    {
+        "soal": "Apa saja acting papah setnov?",
+        "jawaban": [
+            "Kecelakaan", 
+            "Benjol", 
+            "Tidur", 
+            "Sakit"
+        ]
+    },
+    {
+        "soal": "Selain ibu kandung, siapa yang dipanggil ibu?",
+        "jawaban": [
+            "Guru", 
+            "Mertua", 
+            "Atasan", 
+            "Tiri"
+        ]
+    },
+    {
+        "soal": "Dimana orang mencari benda hilang dirumah?",
+        "jawaban": [
+            "Laci", 
+            "Tempat Tidur", 
+            "Bawah Meja", 
+            "Lemari"
+        ]
+    },
+    {
+        "soal": "Obat apa yang harus dibawa ketika berkemah?",
+        "jawaban": [
+            "FLU", 
+            "Merah", 
+            "Gosok", 
+            "Pusing"
+        ]
+    },
+    {
+        "soal": "Jika tidak ada sprei, apa yang dipakai mengalas kasur?",
+        "jawaban": [
+            "Sarung", 
+            "Selimut", 
+            "Tikar", 
+            "Kain"
+        ]
+    },
+    {
+        "soal": "Apa yang ditulis ditangan?",
+        "jawaban": [
+            "Nomor telepon", 
+            "Alamat", 
+            "Contekan", 
+            "Nama"
+        ]
+    },
+    {
+        "soal": "Tempat apa yang digunakan orang untuk berpetualang?",
+        "jawaban": [
+            "Hutan", 
+            "Gunung", 
+            "Sungai", 
+            "Laut"
+        ]
+    },
+    {
+        "soal": "Apa untungnya jadi anak sulung?",
+        "jawaban": [
+            "Dihormati", 
+            "Berkuasa", 
+            "Bebas", 
+            "Dimanja"
+        ]
+    },
+    {
+        "soal": "Selain cinta apa yang dibutuhkan agar pernikahan bahagia?",
+        "jawaban": [
+            "Kejujuran", 
+            "Materi", 
+            "Anak", 
+            "Kepercayaan"
+        ]
+    },
+    {
+        "soal": "Dimana kita bisa duduk-duduk santai sambil ngopi?",
+        "jawaban": [
+            "Kafe", 
+            "Rumah", 
+            "Kantor", 
+            "Warung"
+        ]
+    },
+    {
+        "soal": "Apa yang biasanya dicari orang dalam majalah?",
+        "jawaban": [
+            "Iklan", 
+            "Zodiak", 
+            "Cerita", 
+            "Berita"
+        ]
+    },
+    {
+        "soal": "Sampah apa yang sering ditemukan dijalan?",
+        "jawaban": [
+            "Kertas", 
+            "Plastik", 
+            "Daun", 
+            "Puntung Rokok"
+        ]
+    },
+    {
+        "soal": "Cita-cita anak SD",
+        "jawaban": [
+            "Insinyur", 
+            "Dokter", 
+            "Polisi", 
+            "Guru"
+        ]
+    },
+    {
+        "soal": "Tempat pacaran",
+        "jawaban": [
+            "Rumah", 
+            "Kuburan", 
+            "Sawah", 
+            "Rumah sakit"
+        ]
+    },
+    {
+        "soal": "apa yang berhubungan dengan Tarzan?",
+        "jawaban": [
+            "Hutan", 
+            "Hewan", 
+            "Teriakan AUOO", 
+            "Bergelantungan"
+        ]
+    },
+    {
+        "soal": "Apa yang tidak bisa dilakukan wanita rok mini?",
+        "jawaban": [
+            "Jalan", 
+            "Lari", 
+            "Lompat", 
+            "Duduk"
+        ]
+    },
+    {
+        "soal": "Apa alat olahraga yang diayunkan oleh atlet?",
+        "jawaban": [
+            "Raket", 
+            "Lembing", 
+            "Cakram", 
+            "Tongkat"
+        ]
+    },
+    {
+        "soal": "Profesi yang menggunakan helm?",
+        "jawaban": [
+            "Kuli", 
+            "Kontraktor", 
+            "Ojek", 
+            "Pembalap"
+        ]
+    },
+    {
+        "soal": "Hal apa yang dilamunkan orang?",
+        "jawaban": [
+            "Pacar", 
+            "Pekerjaan", 
+            "Keluarga", 
+            "Teman"
+        ]
+    },
+    {
+        "soal": "Objek yang dijadikan lukisan",
+        "jawaban": [
+            "Bunga", 
+            "Manusia", 
+            "Pemandangan", 
+            "Rumah"
+        ]
+    },
+    {
+        "soal": "Sifat yang dimiliki anak-anak",
+        "jawaban": [
+            "Manja", 
+            "Cengeng", 
+            "Nakal", 
+            "Pemalu"
+        ]
+    },
+    {
+        "soal": "Bagaimana sikap cowok bila suka sama cewek?",
+        "jawaban": [
+            "Baik-baik", 
+            "Deketin saudaranya", 
+            "Diperhatiin", 
+            "Bilang suka"
+        ]
+    },
+    {
+        "soal": "Perasaan apa yang ada bila mau kencan pertama?",
+        "jawaban": [
+            "Senang", 
+            "Grogi", 
+            "Gembira", 
+            "Dag dig dug"
+        ]
+    },
+    {
+        "soal": "Apa yang dilakukan cewak liat tikus?",
+        "jawaban": [
+            "Lari", 
+            "Teriak", 
+            "Pinsan", 
+            "Loncat"
+        ]
+    },
+    {
+        "soal": "Sebutkan benda bocor bisa bermasalah",
+        "jawaban": [
+            "Genteng", 
+            "Gas", 
+            "Pipa", 
+            "Kondom"
+        ]
+    },
+    {
+        "soal": "Gambar yang terdapat dikalender?",
+        "jawaban": [
+            "Wanita", 
+            "Arts", 
+            "Kendaraan", 
+            "Hewan"
+        ]
+    },
+    {
+        "soal": "Apa yang biasanya ditaruh disaku?",
+        "jawaban": [
+            "Dompet", 
+            "HP", 
+            "buku", 
+            "Permen"
+        ]
+    },
+    {
+        "soal": "Bekal makan anak sekolah?",
+        "jawaban": [
+            "Mie", 
+            "Nasi goreng", 
+            "Roti", 
+            "Nasi uduk"
+        ]
+    },
+    {
+        "soal": "yang dilakukan setelah gajian?",
+        "jawaban": [
+            "Belanja", 
+            "Bayar hutang", 
+            "Cek saldo", 
+            "Menabung"
+        ]
+    },
+    {
+        "soal": "Penyebab prestasi atlet menurun",
+        "jawaban": [
+            "Usia", 
+            "Malas", 
+            "Kesehatan menurun", 
+            "Cedera"
+        ]
+    },
+    {
+        "soal": "Di film horor setan, dimana setan muncul?",
+        "jawaban": [
+            "Toilet", 
+            "Kaca", 
+            "Pohon", 
+            "Kuburan"
+        ]
+    },
+    {
+        "soal": "Dimana saja sering macet?",
+        "jawaban": [
+            "Pasar", 
+            "Perempatan", 
+            "Terminal", 
+            "Lampu lalu lintas"
+        ]
+    },
+    {
+        "soal": "Kegiatan apa yang dilakukan sebelum berenang?",
+        "jawaban": [
+            "Pemanasan", 
+            "Mandi", 
+            "Tidur", 
+            "Makan"
+        ]
+    },
+    {
+        "soal": "Barang apa yang sering kehilangan?",
+        "jawaban": [
+            "HP", 
+            "Uang", 
+            "Dompet", 
+            "Cincin"
+        ]
+    },
+    {
+        "soal": "Barang apa yang berserakan setelah pesta?",
+        "jawaban": [
+            "Sampah makanan", 
+            "Piring", 
+            "Gelas", 
+            "Botol"
+        ]
+    },
+    {
+        "soal": "Cewek materialistis suka ngelihat cowok dari apanya?",
+        "jawaban": [
+            "Mobil", 
+            "Kantong", 
+            "Dompet", 
+            "Duit"
+        ]
+    },
+    {
+        "soal": "Jenis-jenis cewek yang didemenin para cowok?",
+        "jawaban": [
+            "Cantik", 
+            "Seksi", 
+            "Manis", 
+            "Manja"
+        ]
+    },
+    {
+        "soal": "Bunyi suara hewan yang didengarkan orangtua ke anak?",
+        "jawaban": [
+            "Meong", 
+            "Mbek", 
+            "Guk guk", 
+            "Kukuryuuk"
+        ]
+    },
+    {
+        "soal": "Kegiatan yang dilakukan beramai-ramai dimeja",
+        "jawaban": [
+            "Makan", 
+            "Rapat", 
+            "Main kartu", 
+            "Arisan"
+        ]
+    },
+    {
+        "soal": "Apa yang menyebabkan suara serak?",
+        "jawaban": [
+            "Teriak", 
+            "Batuk", 
+            "Nangis", 
+            "Ngedem"
+        ]
+    },
+    {
+        "soal": "Bagian tubuh yang mudah  gemuk",
+        "jawaban": [
+            "Perut", 
+            "Pipi", 
+            "Paha", 
+            "Pinggul"
+        ]
+    },
+    {
+        "soal": "Kenapa wanita lama memilih saat berbelanja",
+        "jawaban": [
+            "Banyak pilihan", 
+            "Bandingkan harga", 
+            "Cari diskon", 
+            "Diteliti"
+        ]
+    },
+    {
+        "soal": "Kegiatan apa yang dilakukan saat cuaca dingin?",
+        "jawaban": [
+            "Tidur", 
+            "Minum kopi", 
+            "Makan", 
+            "Minum teh"
+        ]
+    },
+    {
+        "soal": "Saat mencium bau apa orang menutup hidungnya?",
+        "jawaban": [
+            "Bangkai", 
+            "Buang Angin", 
+            "Amis", 
+            "Ketiak"
+        ]
+    },
+    {
+        "soal": "Apa isi tas cewek?",
+        "jawaban": [
+            "Dompet", 
+            "Hp", 
+            "Alat Makeup", 
+            "Perhiasan"
+        ]
+    },
+    {
+        "soal": "Kondisi yang mengharuskan seseorang harus berdiri",
+        "jawaban": [
+            "Upacara", 
+            "Mengantri", 
+            "Naik bus", 
+            "Nonton konser"
+        ]
+    },
+    {
+        "soal": "Apa yang biasa dilakukan orang bla ngantuk",
+        "jawaban": [
+            "Tidur", 
+            "Menguap", 
+            "Minum Kopi", 
+            "Cuci muka"
+        ]
+    },
+    {
+        "soal": "Apa yang terjadi jika sakit hati",
+        "jawaban": [
+            "Nangis", 
+            "Setres", 
+            "Curhat", 
+            "Mabuk"
+        ]
+    },
+    {
+        "soal": "Disaat apa orang biasanya mematikan HP",
+        "jawaban": [
+            "Ujian", 
+            "Kuliah", 
+            "Rapat", 
+            "Pacaran"
+        ]
+    },
+    {
+        "soal": "Apa yang dilakukan jika tersesat dihutan",
+        "jawaban": [
+            "Menangis", 
+            "Teriak", 
+            "Berdoa", 
+            "Dileme"
+        ]
+    },
+    {
+        "soal": "Benda apa yang digunakan dengan cara dibakar",
+        "jawaban": [
+            "Rokok", 
+            "Lilin", 
+            "Arang", 
+            "Korek api"
+        ]
+    },
+    {
+        "soal": "Sebutkan sesuatu yang bisa orang takuti",
+        "jawaban": [
+            "Hantu", 
+            "Kematian", 
+            "Jatuh miskin", 
+            "Binatang buas"
+        ]
+    },
+    {
+        "soal": "Untuk belajar apa orang pergi ke cina?",
+        "jawaban": [
+            "Bela diri", 
+            "Bahasa", 
+            "Pengobatan", 
+            "Bisnis"
+        ]
+    },
+    {
+        "soal": "Kegiatan apa yang butuh tempat gelap",
+        "jawaban": [
+            "Nonton bioskop", 
+            "Syuting horor", 
+            "Tidur", 
+            "Cuci foto"
+        ]
+    },
+    {
+        "soal": "Bagaimana cara mendekati orang yang ditaksir?",
+        "jawaban": [
+            "Chat", 
+            "Ngobrol", 
+            "Beri perhatian", 
+            "Rayu"
+        ]
+    },
+    {
+        "soal": "Apa yang menarik dari film india?",
+        "jawaban": [
+            "Tarian", 
+            "Lagu", 
+            "Cerita", 
+            "Pakian"
+        ]
+    },
+    {
+        "soal": "Dimana oranbg menyembunyikan barang?",
+        "jawaban": [
+            "Lemari", 
+            "Laci", 
+            "Brankas", 
+            "Kantong"
+        ]
+    },
+    {
+        "soal": "Apa alasan orang keluar dari pekerjaan",
+        "jawaban": [
+            "Bosan", 
+            "Gaji", 
+            "PHK", 
+            "Dipecat"
+        ]
+    },
+    {
+        "soal": "Nama Hewan Berawalan A",
+        "jawaban": [
+            "Anjing", 
+            "Ayam", 
+            "Angsa"
+        ]
+    },
+    {
+        "soal": "Rokok Di Indonesia?",
+        "jawaban": [
+            "Djarum", 
+            "Marlboro", 
+            "U Mild", 
+            "Sampoerna"
+        ]
+    },
+    {
+        "soal": "Negara Pengekspor Minyak Terbesar",
+        "jawaban": [
+            "Arab", 
+            "Indonesia", 
+            "Kuwait", 
+            "Brunei Darussalam"
+        ]
+    },
+    {
+        "soal": "Yang Dilakukan Orang Saat Menunggu",
+        "jawaban": [
+            "Merokok", 
+            "Membaca", 
+            "Melamun", 
+            "Cemas"
+        ]
+    },
+    {
+        "soal": "Hewan Mamalia",
+        "jawaban": [
+            "Anjing", 
+            "Kucing", 
+            "Singa", 
+            "Kelinci",
+            "Beruang"
+        ]
+    },
+    {
+        "soal": "Hewan Berbulu Tebal",
+        "jawaban": [
+            "Beruang", 
+            "Panda", 
+            "Kera", 
+            "Domba",
+            "Kucing"
+        ]
+    },
+    {
+        "soal": "Cara Pengawetan Sayur dan Buah",
+        "jawaban": [
+            "Pengeringan", 
+            "Pengalengan", 
+            "Pengasinan", 
+            "Pemanisan",
+            "Pelumatan"
+        ]
+    },
+    {
+        "soal": "Teman Donald Bebek",
+        "jawaban": [
+            "Lang Ling Lung", 
+            "Agus Angsa", 
+            "Untung", 
+            "Desi"
+        ]
+    },
+    {
+        "soal": "Hiburan Apa Yang Ada Dipesta Ulang Tahun",
+        "jawaban": [
+            "Band", 
+            "Badut", 
+            "Sulap", 
+            "Kuis",
+            "Game"
+        ]
+    },
+    {
+        "soal": "Bahan Bakar Yang Berasal Dari Alam",
+        "jawaban": [
+            "Bensin", 
+            "Solar", 
+            "Batu Bara", 
+            "Minyak Tanah",
+            "LPG"
+        ]
+    },
+    {
+        "soal": "Negara Yang Memiliki Sungai Terpanjang Didunia",
+        "jawaban": [
+            "Afrika", 
+            "Amerika", 
+            "Chijna", 
+            "Rusia"
+        ]
+    },
+    {
+        "soal": "Mata Uang Yang Berawalan R",
+        "jawaban": [
+            "Rupiah", 
+            "Riyal", 
+            "Riel", 
+            "Rupee",
+            "Ringgit"
+        ]
+    },
+    {
+        "soal": "Alat Musik Sederhana",
+        "jawaban": [
+            "Gitar", 
+            "Drum", 
+            "Seruling", 
+            "Terompet",
+            "Harmonika",
+            "Pianika"
+        ]
+    },
+    {
+        "soal": "Negara Di Asia Timur",
+        "jawaban": [
+            "China", 
+            "Taiwan", 
+            "Korea Utara", 
+            "Korea Selatan",
+            "Mongolia"
+        ]
+    },
+    {
+        "soal": "Struktur Sel",
+        "jawaban": [
+            "Membran Sel", 
+            "Sitoplasma", 
+            "Nukleus", 
+            "Organel"
+        ]
+    },
+    {
+        "soal": "Imunisasi Dari Pihak Posyandu / Klinik",
+        "jawaban": [
+            "Polio", 
+            "Campak", 
+            "Cacar", 
+            "BCG",
+            "DPT",
+            "Demam Tipoid"
+        ]
+    },
+    {
+        "soal": "Macam Baju Daerah",
+        "jawaban": [
+            "Bodo", 
+            "Kebaya", 
+            "Ulos", 
+            "Batik",
+            "Guntiang Cino",
+            "Surjan"
+        ]
+    },
+    {
+        "soal": "Yang Dilakukan Orang Saat Liburan",
+        "jawaban": [
+            "Rekreasi", 
+            "Tidur", 
+            "Jalan Jalan", 
+            "Belanja",
+            "Nonton Tv"
+        ]
+    },
+    {
+        "soal": "Kenapa Orang Makan",
+        "jawaban": [
+            "Lapar", 
+            "Stress", 
+            "Gengsi", 
+            "Waktunya Makan",
+            "Kerja Sales",
+            "Ikut Sayembara",
+            "Pengen Gemuk"
+        ]
+    }
+]
